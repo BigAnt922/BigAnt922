@@ -1,5 +1,5 @@
 <!-- Intro  -->
-<img align="right" width="350" src="./assets/profile1.gif" alt="Coding man Yurii" />
+<img align="right" width="350" src="./assests/profile1.gif" alt="Coding man Yurii" />
 <h3 align="center">
    Hey There!, I am
                 <b><a target="_blank" href="https://Yuriiantonio.vercel.app/" style="color:#9DAAF2">@BigAnt922</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -20,7 +20,7 @@
 # About me
 
 <p>
- <img align="right" width="350" height="100%" src="./assets/fullstack_developer.gif" alt="Coding man Yurii" />
+ <img align="right" width="350" height="100%" src="./assests/fullstack_developer.gif" alt="Coding man Yurii" />
 👯 &emsp; I’m working as a <code style="color:#9DAAF2">Senior Full Stack Developer</code>to build elaborate websites or apps.<br/><br/>
 ✌️ &emsp; I’m interested in working with <code style="color:#9DAAF2">Dynamic Teams or Considerate Client</code> with my passion.<br/><br/>
 ❤️ &emsp; I like to breakthrough <code style="color:#9DAAF2">Any Challenging Projects</code><br/><br/>
