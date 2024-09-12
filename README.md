@@ -1,5 +1,5 @@
 <!-- Intro  -->
-<img align="right" width="350" src="./assests/profile1.gif" alt="Coding man Yurii" />
+<img align="right" width="100%" src="./assests/profile1.gif" alt="Coding man Yurii" />
 <h3 align="center">
    Hey There!, I am
                 <b><a target="_blank" href="https://Yuriiantonio.vercel.app/" style="color:#9DAAF2">@BigAnt922</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
