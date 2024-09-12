@@ -21,6 +21,7 @@
 
 <p>
  <img align="right" width="350" src="./assets/animation.gif" alt="Coding man Yurii" />
+ <iframe src="https://giphy.com/embed/EeZ6mLsRRik8cgnh3D" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Tecocraft-computer-technology-laptop-EeZ6mLsRRik8cgnh3D">via GIPHY</a></p>  
 👯 &emsp; I’m working as a <code style="color:#9DAAF2">Senior Full Stack Developer</code>to build elaborate websites or apps.<br/><br/>
 ✌️ &emsp; I’m interested in working with <code style="color:#9DAAF2">Dynamic Teams or Considerate Client</code> with my passion.<br/><br/>
 ❤️ &emsp; I like to breakthrough <code style="color:#9DAAF2">Any Challenging Projects</code><br/><br/>
