@@ -1,11 +1,12 @@
 <!-- Intro  -->
+<img align="right" width="350" src="./assets/profile1.gif" alt="Coding man Yurii" />
 <h3 align="center">
    Hey There!, I am
-                <b><a target="_blank" href="https://ciceroantonio.vercel.app/" style="color:#9DAAF2">@BigAnt922</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+                <b><a target="_blank" href="https://Yuriiantonio.vercel.app/" style="color:#9DAAF2">@BigAnt922</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </b>
 </h3>
 <p align="center">
-  <a href="https://github.com/magicCicero"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Web+developer;Tech+Enthusiast;Master+of+modern+Skills" alt="Typing SVG" /></a></a>
+  <a href="https://github.com/magicYurii"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Web+developer;Tech+Enthusiast;Master+of+modern+Skills" alt="Typing SVG" /></a></a>
 </p>
 <p align="center">     
     「 I am a full stack web application developer from <b>Ukraine</b> 」
@@ -19,7 +20,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="./assets/animation.gif" alt="Coding man Cicero" />
+ <img align="right" width="350" src="./assets/animation.gif" alt="Coding man Yurii" />
 👯 &emsp; I’m working as a <code style="color:#9DAAF2">Senior Full Stack Developer</code>to build elaborate websites or apps.<br/><br/>
 ✌️ &emsp; I’m interested in working with <code style="color:#9DAAF2">Dynamic Teams or Considerate Client</code> with my passion.<br/><br/>
 ❤️ &emsp; I like to breakthrough <code style="color:#9DAAF2">Any Challenging Projects</code><br/><br/>
